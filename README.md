@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PatrickCannon3
+- 👀 I’m interested in Coding Stufff
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on Discord Bots
